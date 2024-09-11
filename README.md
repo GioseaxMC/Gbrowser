@@ -8,6 +8,10 @@
 
 ## Installation
 
+### Download
+
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-brightgreen)](https://github.com/GioseaxMC/Gbrowser/raw/main/dist/Gbrowser.zip)
+
 ### Prerequisites
 
 - **Operating System**: Supports Windows, not tested anywhere else :)
